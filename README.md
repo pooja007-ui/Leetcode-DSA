@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/pooja007-ui/Leetcode-DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pooja007-ui/Leetcode-DSA/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pooja007-ui/Leetcode-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2652-sum-multiples](https://github.com/pooja007-ui/Leetcode-DSA/tree/master/2652-sum-multiples) |
 ## Number Theory
 |  |
 | ------- |
